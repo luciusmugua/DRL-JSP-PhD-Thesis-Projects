@@ -6,3 +6,9 @@ Developed for the thesis entitled "Deep Reinforcement Learning-Based Dynamic Sch
 The code is crteaed and validated by Liu Renke, PhD candidate of School of Mechanical and Aerospace Enginerring, Nanyang Technological University.
 
 The code for experiment in chapter 5 and 6 are stored under the folder "JSP" and "FJSP", respectively.
+
+
+知乎地址：
+https://zhuanlan.zhihu.com/p/498666425
+论文地址：
+https://www.tandfonline.com/doi/abs/10.1080/00207543.2022.2058432?journalCode=tprs20
