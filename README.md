@@ -12,3 +12,5 @@ The code for experiment in chapter 5 and 6 are stored under the folder "JSP" and
 https://zhuanlan.zhihu.com/p/498666425
 论文地址：
 https://www.tandfonline.com/doi/abs/10.1080/00207543.2022.2058432?journalCode=tprs20
+
+Thesis download: https://dr.ntu.edu.sg/handle/10356/158353
